@@ -11,6 +11,7 @@ namespace Programa
         static void Main(string[] args)
         {
             Console.WriteLine("Mi primera subida");
+            Console.WriteLine("Mi segunda subida");
         }
     }
 }
